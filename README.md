@@ -7,7 +7,7 @@ install.packages("套件名稱")
 ```
 
 {% hint style="info" %}
-套件名稱要加上雙引號" "
+套件名稱要加上雙引號 " "
 {% endhint %}
 
 ## 載入套件
