@@ -8,10 +8,15 @@ install.packages("套件名稱")
 
 ## 常用套件
 
-Becoming a super hero is a fairly straight forward process:
 
-```
-$ give me super-powers
+
+```r
+install.packages("rJava")
+install.packages("xlsxjars")
+install.packages("xlsx")
+install.packages("data.table")
+install.packages("plyr")
+
 ```
 
 {% hint style="info" %}
