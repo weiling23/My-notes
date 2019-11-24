@@ -1,23 +1,12 @@
-# 欄位結構
+# Untitled
 
-{% tabs %}
-{% tab title="主鍵" %}
-主鍵可以用來嚴密指定記錄，被指定的欄位會有以下特性
+## Can I become who I want to be?
 
-* 沒有重複的值
-* 資料不可以是空的\(NULL\)
-{% endtab %}
+That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
 
-{% tab title="索引" %}
-在資料表中檢索某個資料的時候，如果資料的數量很龐大的話，要查詢所有記錄的資料會很花時間。遇到這種情況，可以考慮製作資料庫的「索引\(index\)」。
+## Have you had a chance to answer the previous question?
 
-#### 索引的顯示
-
-```sql
-SHOW INDEX FROM 資料表名稱 \G
-```
-{% endtab %}
-{% endtabs %}
+Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
 
 
 
