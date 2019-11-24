@@ -12,13 +12,6 @@ install.packages("套件名稱")
 
 Once you're strong enough, save the world:
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for thaPlain Textt yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
 ## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
