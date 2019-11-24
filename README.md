@@ -6,10 +6,6 @@
 install.packages("套件名稱")
 ```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
 ## 常用套件
 
 Becoming a super hero is a fairly straight forward process:
