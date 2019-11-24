@@ -1,17 +1,9 @@
-# Initial page
+# 安裝套件Package
 
-## R notes
+## 基本指令
 
-### 資料合併
-
-```bash
-cbind()
-rbind()
-merge()
-```
-
-```
-$ give me super-powers
+```r
+install.packages("套件名稱")
 ```
 
 {% hint style="info" %}
