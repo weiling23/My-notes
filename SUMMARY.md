@@ -5,6 +5,7 @@
 
 ## mysql notes
 
-* [欄位結構](mysql-notes/untitled.md)
-* [SELECT](mysql-notes/select.md)
+* [欄位結構](mysql-notes/mysql-notes-2.md)
+* [SELECT](mysql-notes/mysql-notes-1.md)
+* [Untitled](mysql-notes/mysql-notes.md)
 
