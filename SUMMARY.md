@@ -5,5 +5,5 @@
 
 ## mysql notes
 
-* [Untitled](mysql-notes/untitled.md)
+* [欄位結構](mysql-notes/untitled.md)
 
