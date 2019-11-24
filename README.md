@@ -1,8 +1,14 @@
 # Initial page
 
-## Getting Super Powers
+## R notes
 
-Becoming a super hero is a fairly straight forward process:
+### 資料合併
+
+```bash
+cbind()
+rbind()
+merge()
+```
 
 ```
 $ give me super-powers
